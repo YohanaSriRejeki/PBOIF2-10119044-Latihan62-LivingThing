@@ -27,6 +27,6 @@ public class Human extends LivingThing{
     
     @Override
     public void walk(String nama){
-        System.out.println("sedang berjalan");
+        System.out.println(" sedang berjalan");
     }
 }
