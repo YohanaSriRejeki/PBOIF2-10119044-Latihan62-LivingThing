@@ -17,7 +17,7 @@ public class PBOIF210119044Latihan62LivingThing {
     public static void main(String[] args) {
         Human human = new Human();
         human.setNama("Rizki Adam Kurniawan");
-        System.out.print(human.getNama()+" sedang ");
+        System.out.print(human.getNama());
         human.walk("Rizki Adam Kurniawan");
         System.out.print(human.getNama());
         human.breath("Rizki Adam Kurniawan");
